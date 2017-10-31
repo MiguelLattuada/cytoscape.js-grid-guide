@@ -1,7 +1,7 @@
 {
-  "name": "cytoscape-grid-guide",
-  "version": "2.0.3",
-  "description": "A sophisticated and highly customizable Cytoscape.js extension for grid and guideline interactions.",
+  "name": "cytoscape-grid-guide-addon",
+  "version": "0.0.1",
+  "description": "A sophisticated and highly customizable Cytoscape.js extension for grid and guideline interactions. Added special checks.",
   "main": "src/index.js",
   "spm": {
     "main": "src/index.js"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iVis-at-Bilkent/cytoscape.js-grid-guide.git"
+    "url": "github.com/MiguelLattuada/cytoscape.js-grid-guide.git"
   },
   "keywords": [
     "cytoscape",
